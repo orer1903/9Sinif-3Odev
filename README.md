@@ -35,7 +35,7 @@ Bulduğum ikinci dereceden denklem (x= konum, t=zaman, *x= at^2+b*t + c*) şu ş
 
 Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun (hiç değilse birkaç frame benim ölçümlerinden farklı olsun.) Kullandığınız Google Sheet için [link](https://docs.google.com/spreadsheets/d/1EG9olW4NX2jO5U2Z7GkFfKVs-8hug6YcxCynXUDjNYk/edit?usp=sharing) link verin (Google Sheet herkese açık erişimli olsun.) 
 
-a) Denkleminizi **y=-0,214 + 2,15x + -1,29x^2**. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? Sizce niçin a'nın değeri negatif? 
+a) Denkleminizi **y=-0,214 + 2,15x + -1,29x^2**. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? Sizce niçin a'nın değeri negatif?**cevap=** a sabit terimdir. belli bir zamana gelene kadar cismin hareketi olmadığı için doğmuştur ve aynı sebeple negatiftir.(eğer apsisi konum ordinatı zaman alsadık pozitif olurdu) b hız ve c de ivmenin kat sayısıdır(ben böyle düşünüyorum)
 
 b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir? 
 
