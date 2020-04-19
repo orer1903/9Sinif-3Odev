@@ -37,7 +37,7 @@ Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun
 
 a) Denkleminizi **y=-0,214 + 2,15x + -1,29x^2**. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? Sizce niçin a'nın değeri negatif?**cevap=** a sabit terimdir. belli bir zamana gelene kadar cismin hareketi olmadığı için doğmuştur ve aynı sebeple negatiftir.(eğer apsisi konum ordinatı zaman alsadık pozitif olurdu) b hız ve c de ivmenin kat sayısıdır(ben böyle düşünüyorum)
 
-b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir? **cevap=** sabittir
+b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir? **cevap=** sabittir diye düşünüyordum ama azalan bir ivme buldum
 
 c) Video'daki cismin atılış hızı farklı olsaydı (diğer herşey aynı, kütle, yüzey, vb. Hava sürtünmesini ihmal edin), sizce formülde hangi terimler değişecekti? (a, b veya c) **cevap=** ivme aynı kalacağı için c sabit kalır. hız farklı olacağı için b değişir ve de cismin hareketi ölçülmeye daha hızlı başlayacağı için a değişir.
 
@@ -52,7 +52,7 @@ kullandım. Konum-zaman grafiği 2.dereceden bir denklem iken, hız-zaman grafi�
 
 2) Aynı Google Sheet'i kullanarak ivme verilerini Google Sheet'inize girin. (Bu sefer 7 tane ivme veriniz olacak.) İvme-zaman grafiğini çiziniz.
 
-3) İvme'yi ne buldunuz? Bu ivme değerini kullanarak 1kg'lık cisim ile yüzey arasındaki kinetik sürtünme katsayısını bulunuz. 
+3) İvme'yi ne buldunuz? Bu ivme değerini kullanarak 1kg'lık cisim ile yüzey arasındaki kinetik sürtünme katsayısını bulunuz. ivmeyi değişken buldum
 
 # Bölüm 3 (Hala Beni Öldürmeyi Düşünmüyorsan)
 1) Bu deneyde ölçüm hatalarım var. Zamandaki ölçüm hatam sizce kaç ms (mili saniye) nedir? Konumdaki ölçüm hatam sizce kaç cm'dir? 
